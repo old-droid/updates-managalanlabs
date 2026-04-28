@@ -1,3 +1,4 @@
+<img width="2000" height="2000" alt="M" src="https://github.com/user-attachments/assets/237ee3ae-a8e1-4ae1-b38b-5b96cc3d1fad" />
 # updates-managalanlabs
 the repository containing all the model and latest research from us
 # Raptor 1.5
